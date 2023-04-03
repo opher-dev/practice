@@ -1,7 +1,8 @@
 # Practice Exercise
 >
 >please make sure you have nodejs installed on your system before continuing with this exercise
-to run the server do the following:
+
+To run the server do the following:
 
 - cd into server directory - `cd server`
 - install dependencies - `npm install`
