@@ -1,4 +1,4 @@
-# Final Project - Testing your knowledge onHTML, CSS and JS from Module 2 to 14.
+# Final Project - Testing Your knowledge Of HTML, CSS and JS from Module 2 to 14.
 
 using population data found on this repository - : [population data in json](https://github.com/samayo/country-json/blob/master/src/country-by-population.json). Copy the data and create a `data.json` file in the root folder.
 
