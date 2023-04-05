@@ -46,7 +46,7 @@ using population data found on this repository `https://github.com/samayo/countr
 create an application that uses web workers to pocess the data and give a report based on the following criteria.
 1. find populus (most populated) country.  
 
-2. find the least populated country the data should conform to the object data given above.
+2. find the least populated country the data should conform to the object data given in the hint below.
 
 3. find the median populated country - the country whose population stands between most populated and least populated.
 
