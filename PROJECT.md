@@ -4,6 +4,7 @@ using population data found on this repository - : [population data in json](htt
 
 create an application that uses web workers to pocess the data and give a report based on the following criteria.
 1. Load the data from `data.json` file using form file upload - allow only `json` file format  or extension.
+  - send the data to a web worker for processing
 2. find populus (most populated) country.  
 
 3. find the least populated country the data should conform to the object data given in the hint below.
