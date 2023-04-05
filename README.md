@@ -40,4 +40,4 @@ change the lessons array to the following
 
 
 ## FINAL PROJECT ASSIGNMENT ( Tests your skills learned from module 1-14)
-View the project requirements [HERE]("./PROJECT.md")
+View the project requirements [HERE](PROJECT.md)
