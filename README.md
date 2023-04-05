@@ -50,7 +50,7 @@ create an application that uses web workers to pocess the data and give a report
 
 3. find the median populated country - the country whose population stands between most populated and least populated.
 
-4. create or display the data in a bars (some sort of barchart - it does not have to be a perfect barchart) using your svg skills.
+4. create or display the data in bars (some sort of barchart - it does not have to be a perfect barchart) using your svg skills.
 
 5. make sure that the data is processed once and saved to a storage location and retrieve thet data at later stages.
 
