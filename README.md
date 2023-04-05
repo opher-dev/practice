@@ -37,3 +37,30 @@ change the lessons array to the following
 ```
 
 3. displaying the lessons on the  `index.html` page using your DOM manipulation skills.
+
+
+## WEB WORKERS ASSIGNMENT
+
+using population data found on this repository `https://github.com/samayo/country-json/blob/master/src/country-by-population.json`
+
+create an application that uses web workers to pocess the data and give a report based on the following criteria.
+1. find populus (most populated) country.  
+
+2. find the least populated country the data should conform to the object data given above.
+
+3. find the median populated country - the country whose population stands between most populated and least populated.
+
+4. create or display the data in a bars (some sort of barchart - it does not have to be a perfect barchart) using your svg skills.
+
+5. make sure that the data is processed once and saved to a storage location and retrieve thet data at later stages.
+
+6. send the data to the api (the rest api found in this project at `./server` folder.). only sending the data nothing else.
+
+>**HINT**: Your data recieved from the web worker should look and be grouped  like this:
+```bash
+{
+mostPopulates: {countryname: '', population: '', percentage: 0},
+leastPopulated: {countryname: '', population: '', percentage: 0},
+medianPopulates: {countryname: '', population: '', percentage: 0}
+}
+```
