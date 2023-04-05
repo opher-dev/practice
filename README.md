@@ -55,7 +55,7 @@ create an application that uses web workers to pocess the data and give a report
 
 6. make sure that the data is processed once and saved to a storage location and retrieve thet data at later stages.
 
-7. send the data to the api (the rest api found in this project at `./server` folder.). only sending the data nothing else.
+7. retrieve  the data stored in the browser and send it to the api (the rest api found in this project at `./server` folder.). only sending the data nothing else.
 
 >**HINT**: Your data recieved from the web worker should look and be grouped  like this:
 ```bash
