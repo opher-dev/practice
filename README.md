@@ -41,7 +41,8 @@ change the lessons array to the following
 
 ## WEB WORKERS ASSIGNMENT
 
-using population data found on this repository - : [population data in json](https://github.com/samayo/country-json/blob/master/src/country-by-population.json)
+using population data found on this repository - : [population data in json](https://github.com/samayo/country-json/blob/master/src/country-by-population.json). 
+>> Please copy the data and create a .json file in your environent then load the data using file upload option in HTML
 
 create an application that uses web workers to pocess the data and give a report based on the following criteria.
 1. find populus (most populated) country.  
